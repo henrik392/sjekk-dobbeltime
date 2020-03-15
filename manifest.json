@@ -1,9 +1,10 @@
 {
-    "name": "Dobbeltime?",
-    "version": "0.0.0",
-    "description": "Dette pogrammet sjekker om det er en dobbeltime i valgfag!",
     "manifest_version": 2,
-    "page_action": {
+
+    "name": "Dobbeltime?",
+    "description": "Dette pogrammet sjekker om det er en dobbeltime i valgfag!",
+    "version": "1.0.0",
+    "browser_action": {
         "default_popup": "popup.html",
         "default_icon": {
             "16": "images/img16.png",
